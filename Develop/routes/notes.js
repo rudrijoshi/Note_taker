@@ -15,8 +15,8 @@ router.post('/', (req, res) => {
     } else {
         res.json('Error in adding note');
     }
-});
 
+});
 
 
 
