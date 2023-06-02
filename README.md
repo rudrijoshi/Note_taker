@@ -36,3 +36,5 @@ Screenshot of a README.md file
 
 -URL link for the Github repository: https://github.com/rudrijoshi/NoteTakerProject/
 
+-URL link for the Heroku deployment: https://enigmatic-beyond-89341.herokuapp.com/
+
