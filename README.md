@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# Note taker
 
 ## Description
 
@@ -32,9 +32,9 @@ Screenshot of a README.md file
 
 ## Links
 
--URL link for the deployed Github application: https://rudrijoshi.github.io/NoteTakerProject/
+-URL link for the deployed Github application: https://rudrijoshi.github.io/Note_taker/
 
--URL link for the Github repository: https://github.com/rudrijoshi/NoteTakerProject/
+-URL link for the Github repository: https://github.com/rudrijoshi/Note_taker/
 
 -URL link for the Heroku deployment: https://enigmatic-beyond-89341.herokuapp.com/
 
